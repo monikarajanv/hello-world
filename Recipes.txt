@@ -1,5 +1,8 @@
 Welcome to MR kitchen
 chicken
+biriyani
+mutton
+icecream
 
 
 Thank you
